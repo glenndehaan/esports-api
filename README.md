@@ -20,6 +20,7 @@ That's it. Easy right?
 
 ## PWA
 I also create this awesome PWA with this API:
+
 ![Image of Esports PWA](https://user-images.githubusercontent.com/7496187/27261192-2a8df0ea-543e-11e7-85b9-9cd67d859e68.png)
 
 Check it out here:
