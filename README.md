@@ -4,8 +4,10 @@ A public API getting you the latest results in Esports.
 
 ## Structure
 - Ubuntu 14.04
+- PHP 5
 - MongoDB
 - Phalcon 3
+- apidoc
 
 ## Supported Game's
 - Counter Strike :: Global Offensive
