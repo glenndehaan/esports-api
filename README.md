@@ -13,6 +13,9 @@ A public API getting you the latest results in Esports.
 - Counter Strike :: Global Offensive
 - Overwatch
 - Call of Duty
+- League of Legends
+- Heroes of the Storm
+- Dota 2
 
 ## Usage
 Then open up your favorite browser and go to https://esports.glenndehaan.com/
